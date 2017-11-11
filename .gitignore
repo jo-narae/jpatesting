@@ -2,3 +2,7 @@
 /.idea
 JPATesting.iml
 /target
+/bin
+/.settings
+.classpath
+.project
